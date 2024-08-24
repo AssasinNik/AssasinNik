@@ -16,6 +16,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=assasinnik&show_icons=true&locale=en&layout=compact" alt="assasinnik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assasinnik&" alt="assasinnik" /></p>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=assasinnik&" alt="assasinnik" />
 
 [![AssasinNik's GitHub | Languages Over Time](https://stats.quira.sh/AssasinNik/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=AssasinNik)
