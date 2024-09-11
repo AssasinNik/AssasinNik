@@ -12,7 +12,7 @@
 </div>
 
 <h2 align="center">
-    Скиллы
+    Skills
 </h2>
 <div align="center">
 
@@ -28,7 +28,7 @@
 
 </div>
 <h2 align="center">
-    Контакты
+    Contacts
 </h2>
 <div align="center">
 
